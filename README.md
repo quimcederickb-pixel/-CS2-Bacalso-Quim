@@ -11,3 +11,4 @@ This program calculates travel fares.
 - Output: Travel fare.
   
 - Input Validation: Passenger name can't be empty, distance must be greater than 0, and passenger number must be a positive whole number.
+ 
